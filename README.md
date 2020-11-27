@@ -1,1 +1,1 @@
-# Computational-Modeling-of-Word-Semantics
+# Computational Modeling of Word Semantics
