@@ -4,4 +4,8 @@
 
 ## Content
 
-#### - [Word2Vec Model](https://github.com/Timothy802/Computational-Modeling-of-Word-Semantics/blob/main/Word2Vec_Model.ipynb)
+- [Word2Vec Model](https://github.com/Timothy802/Computational-Modeling-of-Word-Semantics/blob/main/Word2Vec_Model.ipynb)
+
+
+<img style="float: left;" src="Figures/CC.png" width="10%">
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
